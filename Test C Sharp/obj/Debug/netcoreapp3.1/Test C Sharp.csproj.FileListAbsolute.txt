@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\bin\Debug\netcoreapp3.1\Test C Sharp.exe
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\bin\Debug\netcoreapp3.1\Test C Sharp.deps.json
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\bin\Debug\netcoreapp3.1\Test C Sharp.runtimeconfig.json
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\bin\Debug\netcoreapp3.1\Test C Sharp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\bin\Debug\netcoreapp3.1\Test C Sharp.dll
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\bin\Debug\netcoreapp3.1\Test C Sharp.pdb
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.dll
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.pdb
+C:\Users\Admin\source\repos\Test C Sharp\Test C Sharp\obj\Debug\netcoreapp3.1\Test C Sharp.genruntimeconfig.cache
